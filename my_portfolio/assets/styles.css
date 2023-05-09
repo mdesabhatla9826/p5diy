@@ -85,7 +85,7 @@ nav {
     display: block;
     list-style-type: none;
     width: 60px;
-    margin: 0px 60px 0px 0px;
+    margin: 0px 40px 0px 0px;
     float: left;
     font-family: neonoir, 'sans-serif;';
     font-size: 20px;
@@ -101,7 +101,7 @@ nav a:link {
 }
 nav a:visited {
     text-decoration: none;
-    color: #BE1E2E;
+    color: white;
 }
 nav a:hover {
     text-decoration: none;
@@ -112,7 +112,7 @@ nav a:hover {
 }
 nav a:active {
     text-decoration: none;
-    color: #191919;
+    color: white;
 }
 .submit_btn {
     width: 170px;

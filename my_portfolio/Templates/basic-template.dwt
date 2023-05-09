@@ -1,0 +1,47 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact Me</title>
+<!-- TemplateEndEditable -->
+
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/fhf8lnx.css">
+<link rel="stylesheet" href="https://use.typekit.net/fhf8lnx.css">
+<link rel="stylesheet" href="https://use.typekit.net/fhf8lnx.css">
+
+<!-- TemplateBeginEditable name="head" -->
+
+		<style type="text/css">
+		</style>
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	<li><a href="../pages/about.html">About</a></li>
+	<li><a href="../pages/blog.html">Blog</a></li>
+	<li><a href="../pages/gallery.html">Gallery</a></li>
+	<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	
+	</nav>
+  <!--Begin floated elements-->
+   <aside><h3>I'm a woman, student, a daughter, a movie-appreciator,a youth organizing professional, tennis player, and movie lover.</h3>
+	<h3>Browse through this website to find new movies to watch!</h3>
+	   <h3>By Mahati Desabhatla</h3>
+	</aside>
+<!-- TemplateBeginEditable name="main-content" -->
+	  <main>
+	  <h1>Page Title</h1>
+</main>
+	<!-- TemplateEndEditable -->
+  <!--End floated elements-->
+  <footer><h2>Thanks for stopping by!</h2></footer>
+</div>
+</body>
+</html>
